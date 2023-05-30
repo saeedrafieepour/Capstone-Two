@@ -1,3 +1,5 @@
+![1](https://github.com/saeedrafieepour/Capstone-Two-Project/assets/121918655/50bc2cfc-0b81-4c6d-b64f-8bf4c48803bd)
+
 # Capstone Two Project
 # Loan default prediction
 
