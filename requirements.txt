@@ -1,0 +1,13 @@
+seaborn
+numpy
+pandas
+matplotlib
+watermark
+scikit-learn
+missingno
+python-dotenv
+pytest
+tqdm
+watermark
+scipy
+library
